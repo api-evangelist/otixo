@@ -1,0 +1,74 @@
+{
+    "name": "Otixo",
+    "description": "Otixo brings team collaboration and communication into one place, so you can get more work done.     Otixo enables you to connect all your Cloud Drives and to collaborate with your Team. Get access to more than 30 Cloud Drives, such as Google Drive, Bo...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1695-otixo.jpg",
+    "tags": [
+        "aggregation",
+        "have api",
+        "interoperability",
+        "ipaas"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/otixo\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Otixo",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1695-otixo.jpg",
+            "humanURL": "http:\/\/otixo.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/otixo-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.otixo.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.otixo.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/otixo"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/otixo"
+        },
+        {
+            "type": "Email",
+            "url": "support@otixo.com"
+        },
+        {
+            "type": "Email",
+            "url": "enterprise@otixo.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@otixo.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/otixo-hudson"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/otixo"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/otixo.com\/"
+        }
+    ]
+}
